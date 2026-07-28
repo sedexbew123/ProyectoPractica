@@ -38,5 +38,6 @@ namespace ProyectoPractica
             return distanciaPunto;
         }
         public void Mariano() {
+            slashed
     }
 }
